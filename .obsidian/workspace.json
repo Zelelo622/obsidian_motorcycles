@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "32b8f50c9afe482c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ba4de541f59f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d3cc242c633ada2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29997c0ef067972b",
+    "type": "split",
+    "children": [
+      {
+        "id": "430399d0526be4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9c67bed64b03fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f741704f07cbd73b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "616b39d5eb19b233",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fd1fd32171be295",
+    "type": "split",
+    "children": [
+      {
+        "id": "04665aff33af09a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f5e54d643637f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ade66f94d0eb102d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "220b3e16773f7bd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff39c1971884d8c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d3cc242c633ada2",
+  "lastOpenFiles": [
+    "Категории/Разновидности мотоциклов/Нейкед.md",
+    "Мотоциклы/Нейкед/YAMAHA MT-03.md",
+    "Мотоциклы/Нейкед/YAMAHA MT-07.md",
+    "Изображения/Pasted image 20240915192424.png",
+    "Категории/Мотокуртки-джинсы-перчатки-мотоботы.md",
+    "Категории/Подшлемники.md",
+    "Мотоциклы/Нейкед/Bajaj Dominar 400 Touring.md",
+    "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+    "Изображения/Pasted image 20240915174744.png",
+    "Категории/Мотоциклы.md",
+    "Категории/Мотошлемы.md",
+    "Мотошлемы/SHARK RIDILL Blank черный.md",
+    "Мотошлемы/AGV K1.md",
+    "Изображения/Pasted image 20240915174130.png",
+    "Изображения/Pasted image 20240915174114.png",
+    "Изображения/Pasted image 20240915174102.png",
+    "Изображения/Pasted image 20240915174052.png",
+    "Изображения/Pasted image 20240915174035.png",
+    "Icon Airform Dark Helmet/Матовый/Черный.md",
+    "Icon Airform Dark Helmet/Матовый",
+    "Icon Airform Dark Helmet",
+    "Подшлемник Simple на ЯМаркет.md",
+    "Изображения/Pasted image 20240915173101.png",
+    "Изображения/Pasted image 20240915172804.png",
+    "2024-09-15.md",
+    "Изображения/Pasted image 20240915134536.png",
+    "Категории/Разновидности мотоциклов/Эндуро.md",
+    "Мотоциклы/Эндуро",
+    "Мотоциклы/Турэндуро",
+    "Мотоциклы/Спортбайк",
+    "Мотоциклы/Нейкед",
+    "Мотоциклы/Классический",
+    "Мотоциклы",
+    "Категории/Разновидности мотоциклов",
+    "Категории/Разновидности мотоциклов/Турэндуро.md",
+    "Категории/Разновидности мотоциклов/Спортбайк.md",
+    "Категории/Разновидности мотоциклов/Классический.md",
+    "Мотошлемы/AGV K3.md",
+    "Мотошлемы/Виды мотошлемов.md",
+    "Изображения",
+    "Добро пожаловать.md",
+    "создайте ссылку.md"
+  ]
+}
