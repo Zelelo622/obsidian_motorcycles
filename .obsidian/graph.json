@@ -32,7 +32,7 @@
       "query": "path:(Спортбайк)",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16687949
       }
     },
     {
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "file:(Что купил ;))",
+      "color": {
+        "a": 1,
+        "rgb": 65331
+      }
     }
   ],
   "collapse-display": true,
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 1.29947916666667,
   "lineSizeMultiplier": 1.01875,
   "collapse-forces": true,
-  "centerStrength": 0.40625,
-  "repelStrength": 9.16666666666667,
-  "linkStrength": 1,
-  "linkDistance": 184,
-  "scale": 1.0000000000000013,
+  "centerStrength": 0.395833333333333,
+  "repelStrength": 9.375,
+  "linkStrength": 0.598958333333333,
+  "linkDistance": 263,
+  "scale": 1.767688776438916,
   "close": true
 }

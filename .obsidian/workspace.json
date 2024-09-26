@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "43ba4de541f59f00",
+        "id": "e96919c875d5e24d",
         "type": "tabs",
         "children": [
           {
-            "id": "7d3cc242c633ada2",
+            "id": "291f3e6706509b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+                "file": "Мотоциклы/Спортбайк/YAMAHA R3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e0c956f070e1a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c562fea5c198a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мотоциклы/Нейкед/YAMAHA MT-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+                "file": "Мотоциклы/Нейкед/YAMAHA MT-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+                "file": "Мотоциклы/Нейкед/YAMAHA MT-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md"
+                "file": "Мотоциклы/Нейкед/YAMAHA MT-07.md"
               }
             }
           }
@@ -138,57 +156,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d3cc242c633ada2",
+  "active": "8c562fea5c198a5e",
   "lastOpenFiles": [
-    "Категории/Разновидности мотоциклов/Нейкед.md",
-    "Мотоциклы/Нейкед/YAMAHA MT-03.md",
+    "Мотоциклы/Спортбайк/YAMAHA R3.md",
     "Мотоциклы/Нейкед/YAMAHA MT-07.md",
-    "Изображения/Pasted image 20240915192424.png",
-    "Категории/Мотокуртки-джинсы-перчатки-мотоботы.md",
+    "Доски/Все в одном месте.canvas",
     "Категории/Подшлемники.md",
+    "Мотоциклы/Спортбайк/KTM RC 390.md",
+    "Мотоциклы/Нейкед/KTM DUKE 390.md",
+    "Изображения/Pasted image 20240919144811.png",
+    "Категории/Разновидности мотоциклов/Нейкед.md",
     "Мотоциклы/Нейкед/Bajaj Dominar 400 Touring.md",
-    "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
-    "Изображения/Pasted image 20240915174744.png",
+    "Мотоциклы/Нейкед/YAMAHA MT-03.md",
+    "Изображения/Pasted image 20240919144150.png",
+    "Категории/Разновидности мотоциклов/Спортбайк.md",
     "Категории/Мотоциклы.md",
+    "Мотошлемы/SHARK D-SKWAL 3.md",
+    "Изображения/Pasted image 20240919135357.png",
+    "Категории/Мотокуртки-джинсы-перчатки-мотоботы.md",
+    "Мотоциклы/Нейкед/BMW G 310 R.md",
+    "Мотоциклы/Спортбайк/Kawasaki Ninja 300.md",
+    "Изображения/Pasted image 20240919004457.png",
+    "Изображения/Pasted image 20240919004423.png",
+    "Купленное/Что купил ;).md",
+    "Мотошлемы/SHARK RIDILL 2 BERSEK.md",
+    "Изображения/Pasted image 20240918124725.png",
+    "Изображения/Pasted image 20240918124712.png",
+    "Изображения/Pasted image 20240918124658.png",
+    "Изображения/Pasted image 20240918124622.png",
     "Категории/Мотошлемы.md",
-    "Мотошлемы/SHARK RIDILL Blank черный.md",
-    "Мотошлемы/AGV K1.md",
-    "Изображения/Pasted image 20240915174130.png",
-    "Изображения/Pasted image 20240915174114.png",
-    "Изображения/Pasted image 20240915174102.png",
-    "Изображения/Pasted image 20240915174052.png",
-    "Изображения/Pasted image 20240915174035.png",
-    "Icon Airform Dark Helmet/Матовый/Черный.md",
-    "Icon Airform Dark Helmet/Матовый",
-    "Icon Airform Dark Helmet",
-    "Подшлемник Simple на ЯМаркет.md",
-    "Изображения/Pasted image 20240915173101.png",
-    "Изображения/Pasted image 20240915172804.png",
-    "2024-09-15.md",
     "Изображения/Pasted image 20240915134536.png",
     "Категории/Разновидности мотоциклов/Эндуро.md",
+    "Категории/Разновидности мотоциклов/Турэндуро.md",
+    "Категории/Разновидности мотоциклов/Классический.md",
+    "Доски",
+    "Без названия 1.canvas",
+    "Мотошлемы/SHARK RIDILL Blank черный.md",
+    "Мотошлемы/Icon AIRFORM SOLID Gloss Black.md",
+    "Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md",
+    "Мотошлемы/AGV K1.md",
+    "Мотошлемы/AGV K3.md",
+    "Купленное",
+    "Icon Airform Dark Helmet/Матовый",
+    "Icon Airform Dark Helmet",
     "Мотоциклы/Эндуро",
     "Мотоциклы/Турэндуро",
     "Мотоциклы/Спортбайк",
     "Мотоциклы/Нейкед",
     "Мотоциклы/Классический",
-    "Мотоциклы",
-    "Категории/Разновидности мотоциклов",
-    "Категории/Разновидности мотоциклов/Турэндуро.md",
-    "Категории/Разновидности мотоциклов/Спортбайк.md",
-    "Категории/Разновидности мотоциклов/Классический.md",
-    "Мотошлемы/AGV K3.md",
-    "Мотошлемы/Виды мотошлемов.md",
-    "Изображения",
-    "Добро пожаловать.md",
-    "создайте ссылку.md"
+    "Мотоциклы"
   ]
 }

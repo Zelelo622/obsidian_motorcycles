@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"fef675d53f64284d","type":"text","text":"**Шлемы**","x":-400,"y":-200,"width":250,"height":60,"color":"4"},
+		{"id":"d4d8b297f9621ca6","type":"file","file":"Мотоциклы/Нейкед/Bajaj Dominar 400 Touring.md","x":280,"y":-80,"width":400,"height":400,"color":"2"},
+		{"id":"608622fcb73f991a","type":"file","file":"Мотоциклы/Нейкед/YAMAHA MT-07.md","x":700,"y":360,"width":400,"height":400,"color":"5"},
+		{"id":"e5416950768e924c","type":"text","text":"**Мотоциклы**","x":555,"y":-200,"width":250,"height":60,"color":"4"},
+		{"id":"954266ce1253cbd5","type":"file","file":"Мотошлемы/SHARK D-SKWAL 3.md","x":-475,"y":-80,"width":400,"height":400,"color":"4"},
+		{"id":"2b7e56b8651c4db6","type":"file","file":"Мотошлемы/Icon Airform Dark Helmet Матовый Черный.md","x":-260,"y":360,"width":400,"height":400,"color":"5"},
+		{"id":"7e76d259099acb22","type":"file","file":"Мотошлемы/SHARK RIDILL 2 BERSEK.md","x":-260,"y":800,"width":400,"height":400,"color":"5"},
+		{"id":"ff4ed10c8cded663","type":"file","file":"Мотошлемы/SHARK RIDILL Blank черный.md","x":-260,"y":1240,"width":400,"height":400,"color":"5"},
+		{"id":"4fa97650fa476fde","type":"file","file":"Мотошлемы/Icon AIRFORM SOLID Gloss Black.md","x":-675,"y":360,"width":400,"height":400,"color":"2"},
+		{"id":"b0b86f0f92631073","type":"file","file":"Мотошлемы/AGV K3.md","x":-675,"y":800,"width":400,"height":400,"color":"2"},
+		{"id":"a1a53a80510635d5","type":"file","file":"Мотошлемы/AGV K1.md","x":-675,"y":1240,"width":400,"height":400,"color":"2"},
+		{"id":"2a1fcb4faaaf166e","type":"file","file":"Мотоциклы/Нейкед/YAMAHA MT-03.md","x":700,"y":800,"width":400,"height":400,"color":"5"},
+		{"id":"2eafc08fd2d57380","type":"file","file":"Мотоциклы/Нейкед/BMW G 310 R.md","x":280,"y":360,"width":400,"height":400,"color":"2"},
+		{"id":"31712c3ef01145a3","type":"file","file":"Мотоциклы/Спортбайк/KTM RC 390.md","x":280,"y":800,"width":400,"height":400,"color":"2"},
+		{"id":"2487dd2a967860f8","x":700,"y":1240,"width":400,"height":400,"color":"5","type":"file","file":"Мотоциклы/Нейкед/KTM DUKE 390.md"},
+		{"id":"a81eff6786393be3","x":700,"y":-80,"width":400,"height":400,"color":"5","type":"file","file":"Мотоциклы/Спортбайк/YAMAHA R3.md"},
+		{"id":"fd2a53463af08c4e","type":"file","file":"Мотоциклы/Спортбайк/Kawasaki Ninja 300.md","x":280,"y":1240,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[]
+}
