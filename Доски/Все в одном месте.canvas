@@ -14,9 +14,10 @@
 		{"id":"2a1fcb4faaaf166e","type":"file","file":"Мотоциклы/Нейкед/YAMAHA MT-03.md","x":700,"y":800,"width":400,"height":400,"color":"5"},
 		{"id":"2eafc08fd2d57380","type":"file","file":"Мотоциклы/Нейкед/BMW G 310 R.md","x":280,"y":360,"width":400,"height":400,"color":"2"},
 		{"id":"31712c3ef01145a3","type":"file","file":"Мотоциклы/Спортбайк/KTM RC 390.md","x":280,"y":800,"width":400,"height":400,"color":"2"},
-		{"id":"2487dd2a967860f8","x":700,"y":1240,"width":400,"height":400,"color":"5","type":"file","file":"Мотоциклы/Нейкед/KTM DUKE 390.md"},
-		{"id":"a81eff6786393be3","x":700,"y":-80,"width":400,"height":400,"color":"5","type":"file","file":"Мотоциклы/Спортбайк/YAMAHA R3.md"},
-		{"id":"fd2a53463af08c4e","type":"file","file":"Мотоциклы/Спортбайк/Kawasaki Ninja 300.md","x":280,"y":1240,"width":400,"height":400,"color":"2"}
+		{"id":"2487dd2a967860f8","type":"file","file":"Мотоциклы/Нейкед/KTM DUKE 390.md","x":700,"y":1240,"width":400,"height":400,"color":"5"},
+		{"id":"a81eff6786393be3","type":"file","file":"Мотоциклы/Спортбайк/YAMAHA R3.md","x":700,"y":-80,"width":400,"height":400,"color":"5"},
+		{"id":"fd2a53463af08c4e","type":"file","file":"Мотоциклы/Спортбайк/Kawasaki Ninja 300.md","x":280,"y":1240,"width":400,"height":400,"color":"2"},
+		{"id":"918a1f422784ce52","x":280,"y":1680,"width":400,"height":400,"color":"2","type":"file","file":"Мотоциклы/Нейкед/CFMOTO 400NK.md"}
 	],
 	"edges":[]
 }
